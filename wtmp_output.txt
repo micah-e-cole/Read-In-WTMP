@@ -1,0 +1,50 @@
+User: reboot   | Type: 2  | PID: 0     | Line: ~        | Host: 6.11.2-amd64     | Time: 11/20/100224477 07:‚ý
+User: runlevel | Type: 1  | PID: 53    | Line: ~        | Host: 6.11.2-amd64     | Time: 12/30/87449662 08:Ó‚ý
+User:          | Type: 5  | PID: 1077  | Line: tty1     | Host:                  | Time: 07/04/103128760 10:‚ý
+User: LOGIN    | Type: 6  | PID: 1077  | Line: tty1     | Host:                  | Time: 07/04/103128760 10:‚ý
+User: kali     | Type: 7  | PID: 1247  | Line: tty7     | Host: :0               | Time: 12/15/134606180 08:‚ý
+User: reboot   | Type: 2  | PID: 0     | Line: ~        | Host: 6.11.2-amd64     | Time: 12/27/81473419 01:Ó‚ý
+User: runlevel | Type: 1  | PID: 53    | Line: ~        | Host: 6.11.2-amd64     | Time: 12/05/113619373 09:‚ý
+User:          | Type: 5  | PID: 1166  | Line: tty1     | Host:                  | Time: 09/15/121684239 01:‚ý
+User: LOGIN    | Type: 6  | PID: 1166  | Line: tty1     | Host:                  | Time: 09/15/121684239 01:‚ý
+User: kali     | Type: 7  | PID: 1335  | Line: tty7     | Host: :0               | Time: 07/07/36141214 04:Ó‚ý
+User: LOGIN    | Type: 6  | PID: 1073  | Line: tty1     | Host:                  | Time: 01/31/2025 11:07:26‚ý
+User: kali     | Type: 7  | PID: 1246  | Line: tty7     | Host: :0               | Time: 06/02/14026529 04:Ó‚ý
+User: kali     | Type: 8  | PID: 0     | Line: tty7     | Host: :0               | Time: 10/01/38001185 11:Ó‚ý
+User: LOGIN    | Type: 6  | PID: 889   | Line: tty1     | Host:                  | Time: 01/31/2025 11:16:42‚ý
+User: kali     | Type: 7  | PID: 1065  | Line: tty7     | Host: :0               | Time: 07/05/99680069 12:Ó‚ý
+User: kali     | Type: 8  | PID: 0     | Line: tty7     | Host: :0               | Time: 03/31/52737776 02:Ó‚ý
+User: LOGIN    | Type: 6  | PID: 883   | Line: tty1     | Host:                  | Time: 01/31/2025 04:10:39‚ý
+User: kali     | Type: 7  | PID: 1052  | Line: tty7     | Host: :0               | Time: 11/27/24177295 09:Ó‚ý
+User: LOGIN    | Type: 6  | PID: 1081  | Line: tty1     | Host:                  | Time: 01/31/2025 04:42:16‚ý
+User: kali     | Type: 7  | PID: 1252  | Line: tty7     | Host: :0               | Time: 11/13/77977909 10:Ó‚ý
+User: kali     | Type: 8  | PID: 0     | Line: tty7     | Host: :0               | Time: 11/26/96347881 10:Ó‚ý
+User: LOGIN    | Type: 6  | PID: 1067  | Line: tty1     | Host:                  | Time: 01/31/2025 05:24:13‚ý
+User: kali     | Type: 7  | PID: 1249  | Line: tty7     | Host: :0               | Time: 07/23/63104264 12:Ó‚ý
+User: LOGIN    | Type: 6  | PID: 1126  | Line: tty1     | Host:                  | Time: 02/03/2025 01:28:09‚ý
+User: kali     | Type: 7  | PID: 1315  | Line: tty7     | Host: :0               | Time: 01/02/108252460 05:‚ý
+User: LOGIN    | Type: 6  | PID: 1118  | Line: tty1     | Host:                  | Time: 02/04/2025 10:26:31‚ý
+User: kali     | Type: 7  | PID: 1301  | Line: tty7     | Host: :0               | Time: 01/12/23846840 12:Ó‚ý
+User: kali     | Type: 8  | PID: 0     | Line: tty7     | Host: :0               | Time: 01/06/82487925 09:Ó‚ý
+User: kali     | Type: 7  | PID: 12023 | Line: tty8     | Host: :1               | Time: 11/16/79900215 10:Ó‚ý
+User: LOGIN    | Type: 6  | PID: 1115  | Line: tty1     | Host:                  | Time: 02/11/2025 03:02:07‚ý
+User: kali     | Type: 7  | PID: 1302  | Line: tty7     | Host: :0               | Time: 07/01/29578371 08:Ó‚ý
+User: kali     | Type: 8  | PID: 0     | Line: tty7     | Host: :0               | Time: 04/12/48938486 08:Ó‚ý
+User: LOGIN    | Type: 6  | PID: 1077  | Line: tty1     | Host:                  | Time: 02/11/2025 03:06:42‚ý
+User: kali     | Type: 7  | PID: 1252  | Line: tty7     | Host: :0               | Time: 09/14/120597736 07:‚ý
+User: LOGIN    | Type: 6  | PID: 1051  | Line: tty1     | Host:                  | Time: 02/12/2025 01:56:09‚ý
+User: kali     | Type: 7  | PID: 1250  | Line: tty7     | Host: :0               | Time: 01/31/25297280 02:Ó‚ý
+User: kali     | Type: 8  | PID: 0     | Line: tty7     | Host: :0               | Time: 04/04/75513509 03:Ó‚ý
+User: LOGIN    | Type: 6  | PID: 1097  | Line: tty1     | Host:                  | Time: 02/12/2025 05:06:25‚ý
+User: kali     | Type: 7  | PID: 1299  | Line: tty7     | Host: :0               | Time: 09/15/27299069 10:Ó‚ý
+User: kali     | Type: 8  | PID: 0     | Line: tty7     | Host: :0               | Time: 10/15/49283096 05:Ó‚ý
+User: LOGIN    | Type: 6  | PID: 1124  | Line: tty1     | Host:                  | Time: 02/13/2025 12:00:26‚ý
+User: kali     | Type: 7  | PID: 1307  | Line: tty7     | Host: :0               | Time: 05/01/104777501 11:‚ý
+User: LOGIN    | Type: 6  | PID: 1102  | Line: tty1     | Host:                  | Time: 02/13/2025 03:34:01‚ý
+User: kali     | Type: 7  | PID: 1296  | Line: tty7     | Host: :0               | Time: 04/15/61226872 04:Ó‚ý
+User: kali     | Type: 8  | PID: 0     | Line: tty7     | Host: :0               | Time: 08/27/15890447 01:Ó‚ý
+User: LOGIN    | Type: 6  | PID: 1192  | Line: tty1     | Host:                  | Time: 02/14/2025 01:20:05‚ý
+User: kali     | Type: 7  | PID: 1369  | Line: tty7     | Host: :0               | Time: 03/14/34098458 10:Ó‚ý
+User: kali     | Type: 8  | PID: 0     | Line: tty7     | Host: :0               | Time: 12/13/66952006 12:Ó‚ý
+User: LOGIN    | Type: 6  | PID: 1092  | Line: tty1     | Host:                  | Time: 02/17/2025 01:08:07‚ý
+User: kali     | Type: 7  | PID: 1298  | Line: tty7     | Host: :0               | Time: 12/06/115129698 02:‚ý

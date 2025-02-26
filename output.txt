@@ -1,0 +1,450 @@
+Record Type: UNKNOWN (2)
+PID: 0
+Terminal: ~
+Username: reboot
+Host: 6.11.2-amd64
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/30/2025:18:26:58
+
+Record Type: UNKNOWN (1)
+PID: 53
+Terminal: ~
+Username: runlevel
+Host: 6.11.2-amd64
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/30/2025:18:27:01
+
+Record Type: INIT_PROCESS
+PID: 1077
+Terminal: tty1
+Username: 
+Host: 
+Exit Status: 0
+Session ID: 1077
+Timestamp: 01/30/2025:18:27:02
+
+Record Type: LOGIN_PROCESS
+PID: 1077
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1077
+Timestamp: 01/30/2025:18:27:02
+
+Record Type: USER_PROCESS
+PID: 1247
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/30/2025:18:27:10
+
+Record Type: UNKNOWN (2)
+PID: 0
+Terminal: ~
+Username: reboot
+Host: 6.11.2-amd64
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/31/2025:10:19:03
+
+Record Type: UNKNOWN (1)
+PID: 53
+Terminal: ~
+Username: runlevel
+Host: 6.11.2-amd64
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/31/2025:10:19:07
+
+Record Type: INIT_PROCESS
+PID: 1166
+Terminal: tty1
+Username: 
+Host: 
+Exit Status: 0
+Session ID: 1166
+Timestamp: 01/31/2025:10:19:07
+
+Record Type: LOGIN_PROCESS
+PID: 1166
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1166
+Timestamp: 01/31/2025:10:19:07
+
+Record Type: USER_PROCESS
+PID: 1335
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/31/2025:10:19:27
+
+Record Type: LOGIN_PROCESS
+PID: 1073
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1073
+Timestamp: 01/31/2025:11:07:26
+
+Record Type: USER_PROCESS
+PID: 1246
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/31/2025:11:07:34
+
+Record Type: DEAD_PROCESS
+PID: 0
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/31/2025:11:16:15
+
+Record Type: LOGIN_PROCESS
+PID: 889
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 889
+Timestamp: 01/31/2025:11:16:42
+
+Record Type: USER_PROCESS
+PID: 1065
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/31/2025:11:17:00
+
+Record Type: DEAD_PROCESS
+PID: 0
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/31/2025:16:10:19
+
+Record Type: LOGIN_PROCESS
+PID: 883
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 883
+Timestamp: 01/31/2025:16:10:39
+
+Record Type: USER_PROCESS
+PID: 1052
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/31/2025:16:11:04
+
+Record Type: LOGIN_PROCESS
+PID: 1081
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1081
+Timestamp: 01/31/2025:16:42:16
+
+Record Type: USER_PROCESS
+PID: 1252
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/31/2025:16:42:26
+
+Record Type: DEAD_PROCESS
+PID: 0
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/31/2025:17:23:27
+
+Record Type: LOGIN_PROCESS
+PID: 1067
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1067
+Timestamp: 01/31/2025:17:24:13
+
+Record Type: USER_PROCESS
+PID: 1249
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 01/31/2025:17:24:19
+
+Record Type: LOGIN_PROCESS
+PID: 1126
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1126
+Timestamp: 02/03/2025:13:28:09
+
+Record Type: USER_PROCESS
+PID: 1315
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/03/2025:13:28:24
+
+Record Type: LOGIN_PROCESS
+PID: 1118
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1118
+Timestamp: 02/04/2025:10:26:31
+
+Record Type: USER_PROCESS
+PID: 1301
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/04/2025:10:27:14
+
+Record Type: DEAD_PROCESS
+PID: 0
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/04/2025:10:47:56
+
+Record Type: USER_PROCESS
+PID: 12023
+Terminal: tty8
+Username: kali
+Host: :1
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/04/2025:10:52:52
+
+Record Type: LOGIN_PROCESS
+PID: 1115
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1115
+Timestamp: 02/11/2025:15:02:07
+
+Record Type: USER_PROCESS
+PID: 1302
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/11/2025:15:02:14
+
+Record Type: DEAD_PROCESS
+PID: 0
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/11/2025:15:03:48
+
+Record Type: LOGIN_PROCESS
+PID: 1077
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1077
+Timestamp: 02/11/2025:15:06:42
+
+Record Type: USER_PROCESS
+PID: 1252
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/11/2025:15:06:48
+
+Record Type: LOGIN_PROCESS
+PID: 1051
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1051
+Timestamp: 02/12/2025:13:56:09
+
+Record Type: USER_PROCESS
+PID: 1250
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/12/2025:13:56:24
+
+Record Type: DEAD_PROCESS
+PID: 0
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/12/2025:14:24:49
+
+Record Type: LOGIN_PROCESS
+PID: 1097
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1097
+Timestamp: 02/12/2025:17:06:25
+
+Record Type: USER_PROCESS
+PID: 1299
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/12/2025:17:07:14
+
+Record Type: DEAD_PROCESS
+PID: 0
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/12/2025:18:59:25
+
+Record Type: LOGIN_PROCESS
+PID: 1124
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1124
+Timestamp: 02/13/2025:12:00:26
+
+Record Type: USER_PROCESS
+PID: 1307
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/13/2025:12:00:40
+
+Record Type: LOGIN_PROCESS
+PID: 1102
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1102
+Timestamp: 02/13/2025:15:34:01
+
+Record Type: USER_PROCESS
+PID: 1296
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/13/2025:15:34:24
+
+Record Type: DEAD_PROCESS
+PID: 0
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/13/2025:18:31:34
+
+Record Type: LOGIN_PROCESS
+PID: 1192
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1192
+Timestamp: 02/14/2025:13:20:05
+
+Record Type: USER_PROCESS
+PID: 1369
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/14/2025:13:22:33
+
+Record Type: DEAD_PROCESS
+PID: 0
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/17/2025:12:07:56
+
+Record Type: LOGIN_PROCESS
+PID: 1092
+Terminal: tty1
+Username: LOGIN
+Host: 
+Exit Status: 0
+Session ID: 1092
+Timestamp: 02/17/2025:13:08:07
+
+Record Type: USER_PROCESS
+PID: 1298
+Terminal: tty7
+Username: kali
+Host: :0
+Exit Status: 0
+Session ID: 0
+Timestamp: 02/17/2025:13:08:24
+
